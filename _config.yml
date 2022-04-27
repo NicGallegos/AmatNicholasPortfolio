@@ -1,9 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Nicholas Gallegos' Portfolio # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
+  This is my portolio site showcasing my wok from my web design class.
   <br><br>
   Second description 
+  Please contact me if you would like me to create a website for you or you company.
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   

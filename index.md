@@ -13,7 +13,7 @@
 
 ---
 [Project 3: Liquid / Graffiti](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Liquid Graffiti.png?raw=true"/>
 
 ---
 [Project 4: Double Exposure ](http://example.com/)

@@ -28,7 +28,7 @@
 
 
 [Project 7: 3D Pop Out](http://example.com/)
-<img src="images/3D pop out?raw=true"/>
+<img src="images/3D pop out.jpg?raw=true"/>
 
 ### Category Name 2
 

@@ -12,10 +12,23 @@
 <img src="images/kanye finished.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3: Liquid / Graffiti](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4: Double Exposure ](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+[Project 5: Galaxy Dog](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 6: Cool Retro Collage](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+[Project 7: 3D Pop Out](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
 

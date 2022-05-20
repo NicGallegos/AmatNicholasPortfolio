@@ -17,18 +17,18 @@
 
 ---
 [Project 4: Double Exposure ](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Double Exposure?raw=true"/>
 
 
 [Project 5: Galaxy Dog](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/galaxy dog?raw=true"/>
 
 [Project 6: Cool Retro Collage](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Retro collage project?raw=true"/>
 
 
 [Project 7: 3D Pop Out](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/3D pop out?raw=true"/>
 
 ### Category Name 2
 
